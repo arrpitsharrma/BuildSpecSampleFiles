@@ -1,6 +1,6 @@
 # Setup oci cli with api key in the build spec file
 
-This example outlines manually setting up api key from the build spec file.
+This example outlines manually setting up api key from the build spec file. 
 
 # Prerequisite
 
